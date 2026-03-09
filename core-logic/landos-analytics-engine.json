@@ -1,0 +1,7 @@
+{
+  "system": "LandOS",
+  "component": "Hybrid Data Layer",
+  "data_sources": ["Biorome_Sensors", "Market_Trends", "Weather_API", "Expert_Inputs"],
+  "optimization_target": "Yield_Resilience_and_Resource_Efficiency",
+  "processing_mode": "Real-time_Adaptive"
+}
