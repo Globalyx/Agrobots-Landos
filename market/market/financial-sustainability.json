@@ -1,0 +1,38 @@
+{
+  "project_name": "AgroBots LandOS",
+  "business_model": "Terrain Management as a Service (TMaaS)",
+  "revenue_structure": {
+    "type": "Recurring / Multi-year fixed-rate contracts",
+    "target_annual_fee_per_hectare": "€4,500 - €5,200",
+    "included_services": [
+      "Full-scope biorome management",
+      "Autonomous field operations",
+      "Real-time soil and climate monitoring",
+      "Predictive yield analytics"
+    ]
+  },
+  "market_sizing_2029": {
+    "currency": "EUR",
+    "TAM": "20,000,000,000,000",
+    "TAM_description": "Global agri-food value chain",
+    "SAM": "250,000,000,000",
+    "SAM_description": "High-value, intensive-use agricultural land management",
+    "SOM": "1,200,000,000",
+    "SOM_description": "Focused early adopter share in Americas and Europe"
+  },
+  "operational_impact_metrics": {
+    "productivity_increase": "15% - 40%",
+    "input_reduction": "Optimized water, fertilizer, and chemical usage",
+    "labor_efficiency": "Replacement of manual labor with precise robotic systems"
+  },
+  "investment_milestones": {
+    "phase_1_funding_target": "€2.36M",
+    "allocation": {
+      "tech_development": "50%",
+      "pilot_deployments": "30%",
+      "market_entry": "15%",
+      "contingency": "10%"
+    },
+    "break_even_projection": "24-36 months"
+  }
+}
