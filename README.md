@@ -26,10 +26,12 @@ Award Recognition: 3rd Place in the Guatemala Chamber of Commerce Tech Challenge
 
 Business Model: Terrain Management as a Service (TMaaS) providing scalable, regenerative ecosystem management.
 
+AI Europe 2025
+
 👥 Leadership Team
 Reuven Farchi: Solutions Architect. Combines farming background with deep expertise in AI, IoT, and geospatial systems.
 
-María José Azurdia: Agribusiness Leader. Brings hands-on operational expertise and leadership in sustainable development.
+Carolina Hedman Agribusiness Leader. Brings hands-on operational expertise and leadership in sustainable development.
 
 Organization: Globalyx
 
