@@ -1,6 +1,0 @@
-core{
-  "system": "LandOS",
-  "version": "1.0-alpha",
-  "engine": "Hybrid Data Layer",
-  "features": ["Predictive Modeling", "Real-time Monitoring"]
-}-logic/landos-config.json
