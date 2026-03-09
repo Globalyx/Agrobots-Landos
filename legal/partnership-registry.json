@@ -1,0 +1,21 @@
+{
+  "consortium": "ACES / Agrobots",
+  "status": "Active - Legal Framework Consolidated",
+  "partners": [
+    {
+      "name": "Dronak Drones",
+      "role": "OEM & Robotics Integration",
+      "agreement": "MOU-2025-DRK"
+    },
+    {
+      "name": "Smart Farm Bulgaria",
+      "role": "Industrial Pilot & Infrastructure",
+      "agreement": "LOI-2026-SFB"
+    }
+  ],
+  "accolades": {
+    "2025": "AI Europe Winner",
+    "2024": "Guatemala Tech Challenge 3rd Place"
+  },
+  "compliance": ["EU Data Act", "GDPR", "Horizon EIC Ready"]
+}
