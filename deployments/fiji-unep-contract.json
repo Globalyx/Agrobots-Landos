@@ -1,0 +1,17 @@
+{
+  "contract_id": "UNEP-FIJI-2026-TA",
+  "client": "United Nations Environment Programme (UNEP)",
+  "location": "Republic of Fiji",
+  "duration_months": 15,
+  "focus_areas": [
+    "National Policy Revision",
+    "Data Management Systems Improvement",
+    "Climate-Resilient Capacity Building"
+  ],
+  "technical_stack": {
+    "platform": "LandOS (Custom National Version)",
+    "data_standards": ["UN NAZCA Compliance", "GDPR", "IPCC Reporting Guidelines"],
+    "infrastructure": "Cloud-Native Hybrid Data Layer"
+  },
+  "status": "Awarded - Implementation Phase 2026"
+}
