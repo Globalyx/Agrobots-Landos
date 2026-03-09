@@ -18,7 +18,7 @@
 ## 👥 Core Team & Partners
 * **Globalyx**: Enterprise R&D Infrastructure and Parent Organization.
 * [cite_start]**Reuven Farchi**: Solutions Architect[cite: 136, 137].
-* [cite_start]**María José Azurdia**: Agribusiness Leader[cite: 144, 145].
+* [cite_start]**Carolina Hedman**: Agribusiness Leader[cite: 144, 145].
 * **Strategic Partners**: Design Thinking Sweden, Sintropia Guatemala, and Smart Farm Bulgaria.
 
 ---
